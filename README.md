@@ -1,8 +1,8 @@
 <div align="center">
 
-# Jeeva s
+# Jeeva S
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeeva-s-a231ab2b4/)
 [![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jeeva74)
 [![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
@@ -14,7 +14,7 @@
 
 <div align="center">
 
-| B.Tech CSE · CGPA 8.2 | AI & Full Stack Developer | 5+ Projects Built | 2 Hackathon Finalist |
+| B.Tech Information Technology · CGPA 8.2 | 1+ Internship | 5+ Projects Built | 2 Hackathon Finalist |
 |:---:|:---:|:---:|:---:|
 
 </div>
@@ -23,11 +23,13 @@
 
 ## About Me
 
-I am a Information Technology student from Tamil Nadu, India, currently pursuing my B.Tech with a CGPA of **8.2**.
+I am an Information Technology student from Tamil Nadu, India, currently pursuing my B.Tech with a CGPA of **8.2**.
 
 I am passionate about building intelligent software systems, AI-powered applications, and scalable web platforms. My interests include Artificial Intelligence, Full-Stack Development, Backend Engineering, and Cloud Technologies.
 
-I enjoy solving real-world problems through technology and continuously improving my skills through projects, hackathons, and hands-on learning.
+Currently expanding my expertise through real-world development experience, innovative projects, and competitive hackathons.
+
+I enjoy solving practical problems through technology and continuously improving my skills through hands-on learning and collaboration.
 
 ---
 
@@ -67,6 +69,23 @@ I enjoy solving real-world problems through technology and continuously improvin
 
 ---
 
+## Experience
+
+<details open>
+<summary><b>Indium Software — Software Engineer Intern</b></summary>
+
+<br>
+
+- Worked on software development projects involving backend systems and web technologies.
+- Built and optimized application features to improve performance and usability.
+- Collaborated with development teams using Git workflows and Agile methodologies.
+- Assisted in API development, testing, debugging, and deployment activities.
+- Gained practical experience in software engineering best practices and scalable application development.
+
+</details>
+
+---
+
 ## Featured Projects
 
 <div align="center">
@@ -84,9 +103,9 @@ I enjoy solving real-world problems through technology and continuously improvin
 
 ## Achievements
 
-🏆 **Finalist – Code Cubicle**
+🏆 **Finalist — Code Cubicle**
 
-🏆 **Finalist – HackAsagon 2025**
+🏆 **Finalist — HackAsagon 2025**
 
 🚀 Active participant in hackathons and technical competitions
 
@@ -106,9 +125,9 @@ I enjoy solving real-world problems through technology and continuously improvin
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeeva74&show_icons=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeeva74&show_icons=true&count_private=true&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeeva74&layout=compact" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeeva74&layout=compact&hide_border=true"/>
 
 </div>
 
@@ -116,7 +135,7 @@ I enjoy solving real-world problems through technology and continuously improvin
 
 <div align="center">
 
-<img width="90%" src="https://streak-stats.demolab.com/?user=jeeva74" />
+<img width="90%" src="https://streak-stats.demolab.com/?user=jeeva74&hide_border=true" />
 
 </div>
 
@@ -136,8 +155,12 @@ I enjoy solving real-world problems through technology and continuously improvin
 
 </div>
 
-### Have a project or opportunity in mind?
+## Have a Project or Opportunity in Mind?
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+<div align="center">
 
-[![GitHub](https://img.shields.io/badge/jeeva74-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jeeva74)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeeva-s-a231ab2b4/)
+
+[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jeeva74)
+
+</div>
