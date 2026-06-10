@@ -14,7 +14,7 @@
 
 <div align="center">
 
-| B.Tech Information Technology · CGPA 8.2 | 1+ Internship | 5+ Projects Built | 2 Hackathon Finalist |
+| B.Tech Information Technology · CGPA 8.2 | 1+ Internship | 5+ Projects Built | 4 Hackathon Finalist |
 |:---:|:---:|:---:|:---:|
 
 </div>
