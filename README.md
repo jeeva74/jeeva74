@@ -14,7 +14,7 @@
 
 <div align="center">
 
-| B.Tech Information Technology · CGPA 8.2 | 1+ Internship | 5+ Projects Built | 4 Hackathon Finalist |
+| B.Tech Information Technology · CGPA 8.2 | Software Engineer Intern @ Indium Software | 5+ Projects Built | 2 Hackathon Finalist |
 |:---:|:---:|:---:|:---:|
 
 </div>
@@ -25,12 +25,11 @@
 
 I am an Information Technology student from Tamil Nadu, India, currently pursuing my B.Tech with a CGPA of **8.2**.
 
-I am passionate about building intelligent software systems, AI-powered applications, and scalable web platforms. My interests include Artificial Intelligence, Full-Stack Development, Backend Engineering, and Cloud Technologies.
+I am an Information Technology student from Tamil Nadu, India, currently pursuing my B.Tech with a CGPA of 8.2.
 
-Currently expanding my expertise through real-world development experience, innovative projects, and competitive hackathons.
+Currently working as a Software Engineer Intern at Indium Software, where I contribute to software development projects and gain hands-on experience in building scalable applications.
 
-I enjoy solving practical problems through technology and continuously improving my skills through hands-on learning and collaboration.
-
+I am passionate about Software Development, Full-Stack Engineering, Artificial Intelligence, and Cloud Technologies. I enjoy transforming innovative ideas into practical and impactful software products.
 ---
 
 ## Tech Stack
@@ -72,15 +71,15 @@ I enjoy solving practical problems through technology and continuously improving
 ## Experience
 
 <details open>
-<summary><b>Indium Software — Software Engineer Intern</b></summary>
+<summary><b>Indium Software — Software Engineer Intern</b> &nbsp;<code>2025 – Present</code></summary>
 
 <br>
 
-- Worked on software development projects involving backend systems and web technologies.
-- Built and optimized application features to improve performance and usability.
-- Collaborated with development teams using Git workflows and Agile methodologies.
-- Assisted in API development, testing, debugging, and deployment activities.
-- Gained practical experience in software engineering best practices and scalable application development.
+- Currently working on software development projects involving modern web technologies and backend systems.
+- Developing and maintaining scalable applications and APIs.
+- Collaborating with development teams using Git and Agile methodologies.
+- Contributing to testing, debugging, and deployment processes.
+- Gaining hands-on experience in software engineering best practices and real-world product development.
 
 </details>
 
