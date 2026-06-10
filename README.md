@@ -25,12 +25,10 @@
 
 I am an Information Technology student from Tamil Nadu, India, currently pursuing my B.Tech with a CGPA of **8.2**.
 
-I am an Information Technology student from Tamil Nadu, India, currently pursuing my B.Tech with a CGPA of 8.2.
-
 Currently working as a Software Engineer Intern at Indium Software, where I contribute to software development projects and gain hands-on experience in building scalable applications.
 
-I am passionate about Software Development, Full-Stack Engineering, Artificial Intelligence, and Cloud Technologies. I enjoy transforming innovative ideas into practical and impactful software products.
----
+**I am passionate about Software Development, Full-Stack Engineering, Artificial Intelligence, and Cloud Technologies. I enjoy transforming innovative ideas into practical and impactful software products.**
+
 
 ## Tech Stack
 
@@ -71,7 +69,7 @@ I am passionate about Software Development, Full-Stack Engineering, Artificial I
 ## Experience
 
 <details open>
-<summary><b>Indium Software — Software Engineer Intern</b> &nbsp;<code>2025 – Present</code></summary>
+<summary><b>Indium Software — Software Engineer Intern</b> &nbsp;<code>2026 – Present</code></summary>
 
 <br>
 
